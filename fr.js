@@ -760,8 +760,8 @@ social.profile.assets Assets [{0}]
 social.profile.assets.none No published Assets from this user
 social.profile.mods Mods [{0}]
 social.profile.mods.none No published Mods from this user
-social.search Search Results
-social.market.stats.rare Rarest Items
+social.search Search Résulta
+social.market.stats.rare Item le plus rare
 social.market.stats.circulation In Circulation
 social.market.stats.units units Worldwide
 social.trades.in Incoming
@@ -770,8 +770,8 @@ social.trades.out Outgoing
 social.trades.out.head Outgoing Offers ({0})
 social.trades.history History
 social.trades.history.head Trade History ({0})
-social.trades.decline Decline All
+social.trades.decline Tout refuser
 social.trades.message ENABLE TRADE MESSAGES IN SETTINGS
-social.trades.warning You get no items from this trade!
-social.trades.accept Are you sure you want to accept this offer?
+social.trades.warning Tu n'a pas d'item pour cette échange
+social.trades.accept Est tu sure que tu veux accepter l'offre?
 `;
