@@ -773,5 +773,5 @@ social.trades.history.head Trade History ({0})
 social.trades.decline Decline All
 social.trades.message ENABLE TRADE MESSAGES IN SETTINGS
 social.trades.warning You get no items from this trade!
-social.trades.accept Are you sure you want to accept this offer?
+social.trades.accept Est tu sure que tu veux accepter cette offre?
 `;
